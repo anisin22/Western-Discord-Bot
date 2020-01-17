@@ -1,0 +1,11 @@
+{
+    "prefix": "?",
+    "ownerID": "327961331728908289",
+    "token": "NTYwNjYyNjMxNTUyMTIyOTEw.D33ObA.uF7T6K2c5vdypOyEdlc-kYn9LIg",
+    "meaning_of_life": 42,
+    "passwords_array": ["please", "dont", "hack", "me"],
+    "secret_passcodes": {
+        "bank": 1234,
+        "home": 4321
+    }
+  }
